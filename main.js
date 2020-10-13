@@ -1,0 +1,11 @@
+var firstName;
+firstName = 'Abel';
+var lastName;
+lastName = 'Shedrack'.slice(0, 3);
+var isEmployed;
+isEmployed = false;
+console.log(isEmployed);
+var age;
+age = 50;
+console.log(age);
+console.log(firstName + " " + lastName);
