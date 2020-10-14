@@ -22,3 +22,14 @@ var getItems = function (stuff1, stuff2, price) {
 };
 var myItems = getItems('Milk');
 console.log(myItems);
+var cast;
+cast = [
+    'Tyler Hoeclin',
+    'Jake Tapper',
+    'Errica Durance',
+    'Laura vandevoot',
+];
+console.log(cast);
+var tuples;
+tuples = ['helo', 56, true];
+console.log(tuples);

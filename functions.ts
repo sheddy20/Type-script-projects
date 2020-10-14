@@ -29,3 +29,21 @@ let getItems = function (stuff1: string, stuff2?: string, price?: number): any{
 
 const myItems = getItems('Milk',)
 console.log(myItems);
+
+let cast: Array<string>;
+
+cast = [
+  'Tyler Hoeclin',
+  'Jake Tapper',
+  'Errica Durance',
+  'Laura vandevoot',
+];
+
+console.log(cast);
+
+
+let tuples: [string, number, any];
+
+tuples = ['helo', 56, true];
+
+console.log(tuples);
